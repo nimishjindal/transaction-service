@@ -8,6 +8,7 @@ class TransactionServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("this is a proper msg");
 	}
 
 }
